@@ -1,6 +1,6 @@
-# CMST 488 Project 2: Setting up a basic Express.js website
+# CMST 488 Project 4: Setting up an Express.js API
 
-Starter template files for project 4 to setup a basic express.js API. Project includes routes handled in home and resource controllers. The model Resource.js defines the resource structure and validation. The config.env.txt file serves as the template for config.env.
+Starter template files for project 4 to setup an express.js API. Project includes routes handled in home and resource controllers. The model Resource.js defines the resource structure and validation. The config.env.txt file serves as the template for config.env.
 
 ## Installation
 
