@@ -37,7 +37,7 @@ app.put("/api/resources/:id", resourceController.updateResource);
 app.delete("/api/resources/:id", resourceController.deleteResource);
 
 // Init & Listen on defined port number
-const PORT = 5000;
+const PORT = 8000;
 app.listen(PORT, () =>
   console.log(`Server started at http://localhost:${PORT}`)
 );
